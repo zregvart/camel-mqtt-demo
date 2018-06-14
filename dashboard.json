@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "5b1144c0-6f08-11e8-b631-d9c3f3953038",
+    "_type": "dashboard",
+    "_source": {
+      "title": "Demo dashboard",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"gridData\":{\"w\":6,\"h\":3,\"x\":0,\"y\":0,\"i\":\"1\"},\"version\":\"6.2.4\",\"panelIndex\":\"1\",\"type\":\"visualization\",\"id\":\"46f76500-6f08-11e8-b631-d9c3f3953038\"}]",
+      "optionsJSON": "{\"darkTheme\":false,\"useMargins\":true,\"hidePanelTitles\":false}",
+      "version": 1,
+      "timeRestore": false,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  }
+]
